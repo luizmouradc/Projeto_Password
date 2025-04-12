@@ -1,4 +1,6 @@
-📝 Funcionamento do Projeto
+Grupo: Luiz Inácio, Rui Fernando, Nidlan
+
+Funcionamento do Projeto
 
 Pré-requisito
 * Certifique-se de que o arquivo passwords.csv está localizado na pasta dadosEntrada/.
